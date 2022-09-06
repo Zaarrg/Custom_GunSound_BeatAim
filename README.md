@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD032 MD033-->
 
 <h1 align="center">
-  <a name="logo" href="https://github.com/Zaarrg/TTVDropBot"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1142220/header_alt_assets_0.jpg?t=1662005141g" alt="Bear Stone Smart Home" width="200"></a>
+  <a name="logo" href="https://store.steampowered.com/app/1142220/Beat_Aim__Rhythm_FPS_Shooter"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1142220/header_alt_assets_0.jpg?t=1662005141g" alt="Bear Stone Smart Home" width="200"></a>
   <br>
   Beat Aim Custom Gun Sound
 </h1>
