@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/62082797/188748327-7b8b7bac-e49b-4d74-
 
 1. Download the **specific Folder** of the Sound **[here](https://github.com/Zaarrg/Custom_GunSound_BeatAim)** or the **whole pack** from the **[release page](https://github.com/Zaarrg/Custom_GunSound_BeatAim/releases)**.
 2. Go to your **BeatAim folder** then **BeatAim_Data**.
-3. Drag and Drop **sharedassets3.assets** and **HitsoundName.resource** into the folder and **replace** if asked the old sharedassets3.assets file.
+3. Drag and Drop your downloaded **sharedassets3.assets** and **HitsoundName.resource** into the folder and **replace** if asked the old sharedassets3.assets file.
 4. **Done!** Start Beat Aim and Enjoy
 
 
