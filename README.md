@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/62082797/188748327-7b8b7bac-e49b-4d74-
 
 ## 🤔 **What is this Asset Mod all about?**
 
-* You can already add HitSounds like this: https://beataim.miraheze.org/wiki/Gameplay/Custom_Hitsound
+* You can already add HitSounds like this if thats what your are looking for: https://beataim.miraheze.org/wiki/Gameplay/Custom_Hitsound
 * But this wasn't what i was looking for instead i wanted to replace the GunSound
 * So i did and replaced the default Gun Sound directly, atm there are only 4, i'm happy to add more on suggestion
 
